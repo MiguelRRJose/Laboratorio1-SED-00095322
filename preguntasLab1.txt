@@ -1,0 +1,9 @@
+Respuesta - Pregunta 1: 
+El punto más débil de PGP reside en el factor humano y la gestión de claves, ya que la seguridad es tan fuerte como el eslabón más débil de su implementación. Los principales problemas son la complejidad de uso, que puede llevar a errores de configuración o pérdida de claves, y la gestión manual del intercambio de claves, que es tediosa y puede generar vulnerabilidades. 
+
+
+Respuesta - Pregunta 2:
+Es conveniente utilizar solo cifrado simétrico cuando la velocidad y la eficiencia son primordiales y se puede garantizar un intercambio seguro de claves, como en el cifrado de bases de datos, archivos y discos duros, o la protección de grandes volúmenes de datos almacenados. 
+
+Respuesta - Pregunta 3:
+El Ciclo de Vida del Desarrollo de Software Seguro (SSDLC) integra la seguridad en cada fase del ciclo de vida tradicional del software (SDLC), incluyendo la planificación, el diseño, la implementación, las pruebas, la implementación y el mantenimiento.
